@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# This code runs successfully with frankpermenter:drake, commit b26ebef013f354836e5bc7b8ee4e072154f0cbb8
+
 import numpy as np
 import matplotlib.pyplot as plt
 
